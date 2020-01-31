@@ -1,3 +1,4 @@
+Created with command `rails new todos-api --api -T` (Rails 6.0.2.1)
 # README
 
 This README would normally document whatever steps are necessary to get the
